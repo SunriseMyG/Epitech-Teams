@@ -1,0 +1,7 @@
+myteams_cli
+myteams_server
+.vscode/
+coding-style-reports.log
+coding-style.sh
+test_ftp.sh
+database/
